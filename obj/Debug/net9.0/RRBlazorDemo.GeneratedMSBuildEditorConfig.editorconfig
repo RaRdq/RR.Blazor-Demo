@@ -1,0 +1,517 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = RRBlazorDemo
+build_property.RootNamespace = RRBlazorDemo
+build_property.ProjectDir = C:\Projects\RR.Blazor-Demo\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Projects\RR.Blazor-Demo
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Projects/RR.Blazor-Demo/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Core/RActionGroup.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcQ29yZVxSQWN0aW9uR3JvdXAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Core/RBadge.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcQ29yZVxSQmFkZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Core/RBaseModal.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcQ29yZVxSQmFzZU1vZGFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Core/RButton.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcQ29yZVxSQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Core/RCard.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcQ29yZVxSQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Core/RChip.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcQ29yZVxSQ2hpcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Core/RHeaderCard.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcQ29yZVxSSGVhZGVyQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Core/RThemeProvider.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcQ29yZVxSVGhlbWVQcm92aWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Core/RThemeSwitcher.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcQ29yZVxSVGhlbWVTd2l0Y2hlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Data/CellTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGF0YVxDZWxsVGVtcGxhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Data/RCalendar.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGF0YVxSQ2FsZW5kYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Data/RColumn.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGF0YVxSQ29sdW1uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Data/RColumnGeneric.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGF0YVxSQ29sdW1uR2VuZXJpYy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Data/RExportButtonGeneric.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGF0YVxSRXhwb3J0QnV0dG9uR2VuZXJpYy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Data/RExportModal.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGF0YVxSRXhwb3J0TW9kYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Data/RFilterBar.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGF0YVxSRmlsdGVyQmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Data/RFilterField.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGF0YVxSRmlsdGVyRmllbGQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Data/RFilterGeneric.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGF0YVxSRmlsdGVyR2VuZXJpYy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Data/RList.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGF0YVxSTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Data/RListItem.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGF0YVxSTGlzdEl0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Data/RPaginationFooter.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGF0YVxSUGFnaW5hdGlvbkZvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Data/RPivotFieldChip.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGF0YVxSUGl2b3RGaWVsZENoaXAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Data/RPivotFieldConfigModal.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGF0YVxSUGl2b3RGaWVsZENvbmZpZ01vZGFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Data/RPivotGrid.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGF0YVxSUGl2b3RHcmlkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Data/RTableColumnManager.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGF0YVxSVGFibGVDb2x1bW5NYW5hZ2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Data/RTableGeneric.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGF0YVxSVGFibGVHZW5lcmljLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Data/RTableVirtualized.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGF0YVxSVGFibGVWaXJ0dWFsaXplZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Data/RVirtualListGeneric.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGF0YVxSVmlydHVhbExpc3RHZW5lcmljLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Data/RVirtualScroll.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGF0YVxSVmlydHVhbFNjcm9sbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/RAccordion.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSQWNjb3JkaW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/RAccordionItem.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSQWNjb3JkaW9uSXRlbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/RAreaChart.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSQXJlYUNoYXJ0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/RChart.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSQ2hhcnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/RChartSmart.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSQ2hhcnRTbWFydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/RColumnChart.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSQ29sdW1uQ2hhcnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/RDataDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSRGF0YURpc3BsYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/REmptyState.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSRW1wdHlTdGF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/RGallery.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSR2FsbGVyeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/RInfoItem.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSSW5mb0l0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/RLineChart.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSTGluZUNoYXJ0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/RMasonry.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSTWFzb25yeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/RMetric.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSTWV0cmljLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/RPieChart.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSUGllQ2hhcnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/RProgressBar.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSUHJvZ3Jlc3NCYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/RProgressCircular.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSUHJvZ3Jlc3NDaXJjdWxhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/RSkeleton.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSU2tlbGV0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/RStatsCard.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSU3RhdHNDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/RSummaryItem.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSU3VtbWFyeUl0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/RTile.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSVGlsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Display/RTimeline.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRGlzcGxheVxSVGltZWxpbmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Feedback/RAlert.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRmVlZGJhY2tcUkFsZXJ0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Feedback/RConfirmationModal.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRmVlZGJhY2tcUkNvbmZpcm1hdGlvbk1vZGFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Feedback/RDetailModal.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRmVlZGJhY2tcUkRldGFpbE1vZGFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Feedback/RErrorBoundary.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRmVlZGJhY2tcUkVycm9yQm91bmRhcnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Feedback/RFormModal.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRmVlZGJhY2tcUkZvcm1Nb2RhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Feedback/RLoading.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRmVlZGJhY2tcUkxvYWRpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Feedback/RMessageModal.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRmVlZGJhY2tcUk1lc3NhZ2VNb2RhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Feedback/RModal.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRmVlZGJhY2tcUk1vZGFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Feedback/RModalProvider.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRmVlZGJhY2tcUk1vZGFsUHJvdmlkZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Feedback/RModalTyped.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRmVlZGJhY2tcUk1vZGFsVHlwZWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Feedback/RPreviewModal.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRmVlZGJhY2tcUlByZXZpZXdNb2RhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Feedback/RSelectModalGeneric.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRmVlZGJhY2tcUlNlbGVjdE1vZGFsR2VuZXJpYy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Feedback/RToastContainer.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRmVlZGJhY2tcUlRvYXN0Q29udGFpbmVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Feedback/RTooltip.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRmVlZGJhY2tcUlRvb2x0aXAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Form/RAutosuggestGeneric.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRm9ybVxSQXV0b3N1Z2dlc3RHZW5lcmljLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Form/RCheckbox.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRm9ybVxSQ2hlY2tib3gucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Form/RChoiceGeneric.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRm9ybVxSQ2hvaWNlR2VuZXJpYy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Form/RChoiceGroup.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRm9ybVxSQ2hvaWNlR3JvdXAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Form/RChoiceTree.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRm9ybVxSQ2hvaWNlVHJlZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Form/RDatePicker.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRm9ybVxSRGF0ZVBpY2tlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Form/RFileUpload.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRm9ybVxSRmlsZVVwbG9hZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Form/RFormGeneric.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRm9ybVxSRm9ybUdlbmVyaWMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Form/RFormGroup.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRm9ybVxSRm9ybUdyb3VwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Form/RFormSection.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRm9ybVxSRm9ybVNlY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Form/RRadio.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRm9ybVxSUmFkaW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Form/RRadioGroup.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRm9ybVxSUmFkaW9Hcm91cC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Form/RSelectField.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRm9ybVxSU2VsZWN0RmllbGQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Form/RSelectOption.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRm9ybVxSU2VsZWN0T3B0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Form/RTextInput.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRm9ybVxSVGV4dElucHV0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Form/RToggleGeneric.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcRm9ybVxSVG9nZ2xlR2VuZXJpYy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Layout/RAppShell.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcTGF5b3V0XFJBcHBTaGVsbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Layout/RContent.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcTGF5b3V0XFJDb250ZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Layout/RSection.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcTGF5b3V0XFJTZWN0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Navigation/RBreadcrumbs.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcTmF2aWdhdGlvblxSQnJlYWRjcnVtYnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Navigation/RNavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcTmF2aWdhdGlvblxSTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Navigation/RTabItem.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcTmF2aWdhdGlvblxSVGFiSXRlbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Navigation/RTabs.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcTmF2aWdhdGlvblxSVGFicy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/Components/Test/TestModalComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXENvbXBvbmVudHNcVGVzdFxUZXN0TW9kYWxDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/CoreComponentsShowcase.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xDb3JlQ29tcG9uZW50c1Nob3djYXNlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/DataShowcase.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEYXRhU2hvd2Nhc2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/Components/UserFormModal.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xDb21wb25lbnRzXFVzZXJGb3JtTW9kYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/ProductSelectionModal.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xQcm9kdWN0U2VsZWN0aW9uTW9kYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RActionGroupDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSQWN0aW9uR3JvdXBEZW1vLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RAlertDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSQWxlcnREZW1vLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RAvatarDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSQXZhdGFyRGVtby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RBadgeDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSQmFkZ2VEZW1vLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RButtonDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSQnV0dG9uRGVtby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RCardDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSQ2FyZERlbW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RCheckboxDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSQ2hlY2tib3hEZW1vLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RChipDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSQ2hpcERlbW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RDividerDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSRGl2aWRlckRlbW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RExportDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSRXhwb3J0RGVtby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RFilterDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSRmlsdGVyRGVtby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RGridDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSR3JpZERlbW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RHeaderCardDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSSGVhZGVyQ2FyZERlbW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RModalDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSTW9kYWxEZW1vLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RProgressBarDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSUHJvZ3Jlc3NCYXJEZW1vLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RRadioDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSUmFkaW9EZW1vLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RTableDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSVGFibGVEZW1vLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RTabsDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSVGFic0RlbW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RTextInputDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSVGV4dElucHV0RGVtby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RThemeProviderDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSVGhlbWVQcm92aWRlckRlbW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RThemeSwitcherDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSVGhlbWVTd2l0Y2hlckRlbW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RToastDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSVG9hc3REZW1vLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RToggleDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSVG9nZ2xlRGVtby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RTooltipDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSVG9vbHRpcERlbW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Demos/RTypographyDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xEZW1vc1xSVHlwb2dyYXBoeURlbW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/TestPages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXFRlc3RQYWdlc1xJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/RR.Blazor/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = UlIuQmxhem9yXF9JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/RR.Blazor-Demo/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-tpsfbsz1mn
