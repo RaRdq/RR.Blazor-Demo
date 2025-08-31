@@ -1,0 +1,8 @@
+C:\Projects\RR.Blazor-Demo\obj\Release\net9.0\RRBlazorDemo.csproj.AssemblyReference.cache
+C:\Projects\RR.Blazor-Demo\obj\Release\net9.0\rpswa.dswa.cache.json
+C:\Projects\RR.Blazor-Demo\obj\Release\net9.0\RRBlazorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\RR.Blazor-Demo\obj\Release\net9.0\RRBlazorDemo.AssemblyInfoInputs.cache
+C:\Projects\RR.Blazor-Demo\obj\Release\net9.0\RRBlazorDemo.AssemblyInfo.cs
+C:\Projects\RR.Blazor-Demo\obj\Release\net9.0\RRBlazorDemo.csproj.CoreCompileInputs.cache
+C:\Projects\RR.Blazor-Demo\obj\Release\net9.0\RRBlazorDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\RR.Blazor-Demo\obj\Release\net9.0\RRBlazorDemo.sourcelink.json

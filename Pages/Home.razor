@@ -1,0 +1,25 @@
+﻿@page "/"
+
+<PageTitle>RR.Blazor Component Demo</PageTitle>
+
+<RCard Title="Welcome to RR.Blazor Demo" Class="ma-4" Elevation="4">
+    <RSection>
+        <p class="mb-4">This is a demonstration of the RR.Blazor component library featuring 62 modern Blazor components.</p>
+        <div class="flex gap-4">
+            <RButton Text="View Test Components" 
+                     OnClick="@(() => Navigation.NavigateTo("/test"))" 
+                     Variant="ButtonVariant.Primary" 
+                     Icon="play_arrow" />
+            <RButton Text="Core Components" 
+                     OnClick="@(() => Navigation.NavigateTo("/test/core-components"))" 
+                     Variant="ButtonVariant.Secondary" />
+            <RButton Text="Data Components" 
+                     OnClick="@(() => Navigation.NavigateTo("/test/data-showcase"))" 
+                     Variant="ButtonVariant.Secondary" />
+        </div>
+    </RSection>
+</RCard>
+
+@code {
+    [Inject] public NavigationManager Navigation { get; set; } = default!;
+}
