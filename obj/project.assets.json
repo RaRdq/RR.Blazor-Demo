@@ -2099,8 +2099,8 @@
     },
     "RR.Blazor/1.0.0": {
       "type": "project",
-      "path": "RR.Blazor/RR.Blazor.csproj",
-      "msbuildProject": "RR.Blazor/RR.Blazor.csproj"
+      "path": "../RR.Blazor/RR.Blazor.csproj",
+      "msbuildProject": "../RR.Blazor/RR.Blazor.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2145,8 +2145,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Projects\\RR.Blazor-Demo\\RR.Blazor\\RR.Blazor.csproj": {
-              "projectPath": "C:\\Projects\\RR.Blazor-Demo\\RR.Blazor\\RR.Blazor.csproj"
+            "C:\\Projects\\RR.Blazor\\RR.Blazor.csproj": {
+              "projectPath": "C:\\Projects\\RR.Blazor\\RR.Blazor.csproj"
             }
           }
         }
