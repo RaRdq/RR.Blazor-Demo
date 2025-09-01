@@ -1,11 +1,9 @@
 ﻿@page "/"
-@using RR.Blazor.TestPages
-
-<RR.Blazor.TestPages.Index />
+@inject NavigationManager Navigation
 
 @code {
     protected override void OnInitialized()
     {
-        // This page simply proxies the RR.Blazor TestPages index
+        Navigation.NavigateTo("/test");
     }
 }

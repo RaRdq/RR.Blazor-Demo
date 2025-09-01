@@ -1,5 +1,57 @@
 ﻿@inherits LayoutComponentBase
+@using RR.Blazor.Components.Layout
+@using RR.Blazor.Models
+@using RR.Blazor.Enums
+@inject NavigationManager Navigation
 
-<RAppShell>
+<RAppShell Title="RR.Blazor Demo"
+          Features="AppShellFeatures.All"
+          NavigationItems="@GetNavigationItems()"
+          Breadcrumbs="@GetBreadcrumbs()"
+          Logo="/icon-192.png">
     @Body
 </RAppShell>
+
+@code {
+    private List<AppNavItem> GetNavigationItems()
+    {
+        return new List<AppNavItem>
+        {
+            new AppNavItem { Text = "Test Pages", Href = "/test", Icon = "dashboard" },
+            new AppNavItem { Text = "Core Components", Href = "/test/core-components", Icon = "widgets" },
+            new AppNavItem { Text = "Data Showcase", Href = "/test/data-showcase", Icon = "table_chart" },
+            new AppNavItem { Text = "GitHub", Href = "https://github.com/RaRdq/RR.Blazor", Icon = "code", OpenInNewTab = true }
+        };
+    }
+    
+    private List<AppNavItem> GetBreadcrumbs()
+    {
+        var breadcrumbs = new List<AppNavItem>
+        {
+            new AppNavItem { Text = "Home", Href = "/", Icon = "home" }
+        };
+        
+        var currentPath = Navigation.Uri.Replace(Navigation.BaseUri, "").TrimEnd('/');
+        
+        if (currentPath.StartsWith("test"))
+        {
+            breadcrumbs.Add(new AppNavItem { Text = "Test Pages", Href = "/test", Icon = "dashboard" });
+            
+            if (currentPath.Contains("core-components"))
+            {
+                breadcrumbs.Add(new AppNavItem { Text = "Core Components", Href = "/test/core-components", Icon = "widgets" });
+            }
+            else if (currentPath.Contains("data-showcase"))
+            {
+                breadcrumbs.Add(new AppNavItem { Text = "Data Showcase", Href = "/test/data-showcase", Icon = "table_chart" });
+            }
+        }
+        
+        return breadcrumbs;
+    }
+    
+    protected override void OnInitialized()
+    {
+        Navigation.LocationChanged += (sender, args) => StateHasChanged();
+    }
+}
