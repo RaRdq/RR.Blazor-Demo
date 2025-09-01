@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RRBlazorDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02bafd72721afc4ae95d407b842ce8b3554a0ac0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f924e47a76f102822838592c0c43f786fa395d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("RRBlazorDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RRBlazorDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

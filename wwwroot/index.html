@@ -10,7 +10,6 @@
     <!-- Material Symbols Rounded for icons -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
     
-    <link rel="stylesheet" href="css/app.css" />
     <link href="_content/RR.Blazor/css/main.css" rel="stylesheet" />
     <link rel="icon" type="image/png" href="icon-192.png" />
     <link rel="apple-touch-icon" href="icon-192.png" />
@@ -19,17 +18,52 @@
 
 <body>
     <div id="app">
-        <svg class="loading-progress">
-            <circle r="40%" cx="50%" cy="50%" />
-            <circle r="40%" cx="50%" cy="50%" />
-        </svg>
-        <div class="loading-progress-text"></div>
+        <!-- RR.Blazor Loading Screen -->
+        <div class="min-h-100vh flex items-center justify-center bg-background">
+            <div class="loading loading-center loading-large">
+                <!-- Logo above spinner -->
+                <div class="mb-6">
+                    <img src="icon-192.png" alt="RR.Blazor" class="w-24 h-24 mx-auto animate-pulse" />
+                </div>
+                
+                <!-- Spinner using RR.Blazor's loading classes -->
+                <div class="spinner"></div>
+                
+                <!-- Loading dots alternative -->
+                <div class="dots mt-4">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                
+                <!-- Loading text -->
+                <div class="loading-text mt-4 text-primary">RR.Blazor Demo</div>
+                <div class="text-sm text-muted">Loading components...</div>
+                
+                <!-- Progress bar -->
+                <div class="progress-bar mt-6">
+                    <div class="progress-fill"></div>
+                </div>
+            </div>
+        </div>
     </div>
 
-    <div id="blazor-error-ui">
-        An unhandled error has occurred.
-        <a href="." class="reload">Reload</a>
-        <span class="dismiss">🗙</span>
+    <div id="blazor-error-ui" class="fixed bottom-0 left-0 right-0 z-50 bg-error text-white pa-4 shadow-lg">
+        <div class="container mx-auto flex items-center justify-between">
+            <div class="flex items-center gap-3">
+                <span class="material-symbols-rounded text-h5">error</span>
+                <span class="text-body1">An unhandled error has occurred.</span>
+            </div>
+            <div class="flex items-center gap-2">
+                <a href="." class="text-white opacity-90 hover:opacity-100 transition-opacity">
+                    <span class="material-symbols-rounded mr-1">refresh</span>
+                    Reload
+                </a>
+                <a class="dismiss text-white opacity-90 hover:opacity-100 transition-opacity cursor-pointer ml-2">
+                    <span class="material-symbols-rounded">close</span>
+                </a>
+            </div>
+        </div>
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
     <script type="module" src="_content/RR.Blazor/js/rr-blazor.js"></script>
