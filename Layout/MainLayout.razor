@@ -17,7 +17,7 @@
     {
         return new List<AppNavItem>
         {
-            new AppNavItem { Text = "Test Pages", Href = "/test", Icon = "dashboard" },
+            new AppNavItem { Text = "Home", Href = "/test", Icon = "home" },
             new AppNavItem { Text = "Core Components", Href = "/test/core-components", Icon = "widgets" },
             new AppNavItem { Text = "Data Showcase", Href = "/test/data-showcase", Icon = "table_chart" },
             new AppNavItem { Text = "GitHub", Href = "https://github.com/RaRdq/RR.Blazor", Icon = "code", OpenInNewTab = true }
@@ -35,7 +35,7 @@
         
         if (currentPath.StartsWith("test"))
         {
-            breadcrumbs.Add(new AppNavItem { Text = "Test Pages", Href = "/test", Icon = "dashboard" });
+            breadcrumbs.Add(new AppNavItem { Text = "Home", Href = "/test", Icon = "home" });
             
             if (currentPath.Contains("core-components"))
             {
