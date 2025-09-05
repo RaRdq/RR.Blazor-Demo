@@ -206,8 +206,8 @@ C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2
 C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
 C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\wwwroot\_framework\RR.Blazor.pc3zq4wozi.wasm
 C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\wwwroot\_framework\RR.Blazor.tywosiv3zj.pdb
-C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\wwwroot\_framework\RRBlazorDemo.3hk2n064d6.wasm
-C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\wwwroot\_framework\RRBlazorDemo.fws4bzs00d.pdb
+C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\wwwroot\_framework\RRBlazorDemo.grada6oyyu.wasm
+C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\wwwroot\_framework\RRBlazorDemo.3bn2i7v7hx.pdb
 C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
 C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\wwwroot\_framework\AspNetCore.SassCompiler.fe84nslu76.wasm.gz
@@ -417,8 +417,8 @@ C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2
 C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
 C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\wwwroot\_framework\RR.Blazor.pc3zq4wozi.wasm.gz
 C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\wwwroot\_framework\RR.Blazor.tywosiv3zj.pdb.gz
-C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\wwwroot\_framework\RRBlazorDemo.3hk2n064d6.wasm.gz
-C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\wwwroot\_framework\RRBlazorDemo.fws4bzs00d.pdb.gz
+C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\wwwroot\_framework\RRBlazorDemo.grada6oyyu.wasm.gz
+C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\wwwroot\_framework\RRBlazorDemo.3bn2i7v7hx.pdb.gz
 C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json.gz
 C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\rr-blazor.config.json
 C:\Projects\RR.Blazor-Demo\bin\Debug\net9.0\RR.Blazor.staticwebassets.runtime.json
@@ -1070,9 +1070,9 @@ C:\Projects\RR.Blazor-Demo\obj\Debug\net9.0\compressed\6vw31q9mwg-tptq2av103.gz
 C:\Projects\RR.Blazor-Demo\obj\Debug\net9.0\compressed\14qtznb6m6-lfu7j35m59.gz
 C:\Projects\RR.Blazor-Demo\obj\Debug\net9.0\compressed\fxji4gxjfx-pc3zq4wozi.gz
 C:\Projects\RR.Blazor-Demo\obj\Debug\net9.0\compressed\5esmf5h6zt-tywosiv3zj.gz
-C:\Projects\RR.Blazor-Demo\obj\Debug\net9.0\compressed\4gl1w1npe7-3hk2n064d6.gz
-C:\Projects\RR.Blazor-Demo\obj\Debug\net9.0\compressed\o7wom1nvu0-fws4bzs00d.gz
-C:\Projects\RR.Blazor-Demo\obj\Debug\net9.0\compressed\nhvvzaf8fk-vedayjx17x.gz
+C:\Projects\RR.Blazor-Demo\obj\Debug\net9.0\compressed\4gl1w1npe7-grada6oyyu.gz
+C:\Projects\RR.Blazor-Demo\obj\Debug\net9.0\compressed\o7wom1nvu0-3bn2i7v7hx.gz
+C:\Projects\RR.Blazor-Demo\obj\Debug\net9.0\compressed\nhvvzaf8fk-f205xdrxmv.gz
 C:\Projects\RR.Blazor-Demo\obj\Debug\net9.0\staticwebassets.build.json
 C:\Projects\RR.Blazor-Demo\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Projects\RR.Blazor-Demo\obj\Debug\net9.0\staticwebassets.development.json
