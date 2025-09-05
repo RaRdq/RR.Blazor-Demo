@@ -19,30 +19,21 @@
 <body>
     <div id="app">
         <!-- RR.Blazor Loading Screen -->
-        <div class="min-h-100vh flex items-center justify-center bg-background">
-            <div class="loading loading-center loading-large">
-                <!-- Logo above spinner -->
-                <div class="mb-6">
-                    <img src="icon-192.png" alt="RR.Blazor" class="w-24 h-24 mx-auto animate-pulse" />
+        <div class="loading-overlay">
+            <div class="loading loading-center gap-6">
+                <!-- Logo -->
+                <img src="icon-192.png" alt="RR.Blazor" class="w-24 h-24" />
+                
+                <!-- Title -->
+                <h1 class="text-h3 font-semibold text-primary">RR.Blazor</h1>
+                
+                <!-- Large Spinner -->
+                <div class="loading w-32 h-32">
+                    <div class="spinner"></div>
                 </div>
                 
-                <!-- Spinner using RR.Blazor's loading classes -->
-                <div class="spinner"></div>
-                
-                <!-- Loading dots alternative -->
-                <div class="dots mt-4">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                </div>
-                
-                <!-- Loading text -->
-                <div class="text-sm text-muted mt-4">Loading components...</div>
-                
-                <!-- Progress bar -->
-                <div class="progress-bar mt-6">
-                    <div class="progress-fill"></div>
-                </div>
+                <!-- Loading state text -->
+                <p class="loading-text animate-pulse">Initializing components...</p>
             </div>
         </div>
     </div>
