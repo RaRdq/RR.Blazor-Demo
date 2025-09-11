@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "RRBlazorDemo",
   "resources": {
-    "hash": "sha256-5YKjcvkcsoe1jljmSWH3ZhxmnAWJK3dANzn7T77QflI=",
+    "hash": "sha256-puHBqh4S9K5STfwnfCYymOQIw6nL25EWZxh/0Jyk9QI=",
     "fingerprinting": {
       "AspNetCore.SassCompiler.fe84nslu76.wasm": "AspNetCore.SassCompiler.wasm",
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
@@ -206,10 +206,10 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "RR.Blazor.30nwx8i5v2.wasm": "RR.Blazor.wasm",
-      "RR.Blazor.rzwfk7jjnb.pdb": "RR.Blazor.pdb",
-      "RRBlazorDemo.5hozwk8hlm.wasm": "RRBlazorDemo.wasm",
-      "RRBlazorDemo.je3lkgp8ha.pdb": "RRBlazorDemo.pdb"
+      "RR.Blazor.7wej8qxpx2.wasm": "RR.Blazor.wasm",
+      "RR.Blazor.e7cs1p0c2e.pdb": "RR.Blazor.pdb",
+      "RRBlazorDemo.mqcvqxtqpy.wasm": "RRBlazorDemo.wasm",
+      "RRBlazorDemo.nodftejs7m.pdb": "RRBlazorDemo.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.50iqa8w3ys.js": "sha256-pQdXuxfVeqYHOwd5HUM2ERd7OnXirj9JTF37b6OdTAc="
@@ -424,12 +424,12 @@
       "WindowsBase.361km0836k.wasm": "sha256-FacUCEIJYTnbOWgX/R9QP2QnurqRZwRIkDAH0N9z69s=",
       "mscorlib.qiu3j3msqk.wasm": "sha256-QvztpxTOEw4aMIl7zP3QtsPLNv/IWaK5wq22J4ReGrA=",
       "netstandard.lp03u0xxi4.wasm": "sha256-WVQsxULiAiEbyXLKolS7txnWVT82SsvsuMe4jJ+SqqI=",
-      "RR.Blazor.30nwx8i5v2.wasm": "sha256-c303ij03Qx9AQEfW8xuQgJuyxIjvF/DnO5pqq3brU1g=",
-      "RRBlazorDemo.5hozwk8hlm.wasm": "sha256-V+lV0mJ7ufOUJEqXPGh6lDKWOWeVjwR5EG/+gkLNEnU="
+      "RR.Blazor.7wej8qxpx2.wasm": "sha256-2S2CA1hQy1Db0eJASqYpz2aCHVHs5u0AIHdvbp2WFLM=",
+      "RRBlazorDemo.mqcvqxtqpy.wasm": "sha256-wt/nFUqbqH+FPntyMMx039zn+H+Te4ZxBu3HwiqOJzQ="
     },
     "pdb": {
-      "RR.Blazor.rzwfk7jjnb.pdb": "sha256-OavpdnImqteIVjtk2zk43TZz2ZIUjNNtEmn22VkjMu4=",
-      "RRBlazorDemo.je3lkgp8ha.pdb": "sha256-e2hdUA6mfWFFCOWb1oXpcK4LXxHtqY6fhbeu/lDqaPQ="
+      "RR.Blazor.e7cs1p0c2e.pdb": "sha256-ytE8bEoZ4XU+Hvj6TMnwBWQHNJ1B1YKWBOrRdX8qHRo=",
+      "RRBlazorDemo.nodftejs7m.pdb": "sha256-B1gzeRRDPQVl0RrTUVUWR0xOZTM8FuP6ardyZx+h4Mk="
     }
   },
   "cacheBootResources": true,
